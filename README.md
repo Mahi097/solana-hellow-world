@@ -1,4 +1,4 @@
-Solana Wallet Airdrop
+# Solana Wallet Airdrop
 This is a simple Node.js script to interact with the Solana blockchain network using the @solana/web3.js library. It generates a new keypair, retrieves the public key, checks the wallet balance, prompts for an address to send airdrop SOL, requests an airdrop to the specified address, and finally checks the wallet balance again to confirm the airdrop.
 
 # Prerequisites
